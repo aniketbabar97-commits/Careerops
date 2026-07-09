@@ -53,3 +53,4 @@ restrictions). This scanner uses official/public APIs instead, which is more rel
 and doesn't risk violating terms of service. Coverage is therefore a curated subset, not
 a guaranteed complete index of every posting — use the job-board alerts mentioned in the
 report alongside this for full coverage.
+
