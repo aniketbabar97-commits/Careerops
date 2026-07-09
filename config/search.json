@@ -1,0 +1,36 @@
+{
+  "locationLabel": "Germany",
+  "adzunaCountry": "de",
+  "keywords": [
+    "SAP Commerce Cloud",
+    "Hybris",
+    "SAP CX",
+    "SAP Commerce"
+  ],
+  "germanyHints": [
+    "germany",
+    "deutschland",
+    "berlin",
+    "munich",
+    "münchen",
+    "hamburg",
+    "frankfurt",
+    "cologne",
+    "köln",
+    "stuttgart",
+    "düsseldorf",
+    "dresden",
+    "leipzig",
+    "karlsruhe",
+    "mannheim",
+    "nuremberg",
+    "nürnberg",
+    "hannover",
+    "essen",
+    "aachen",
+    "bonn",
+    "bergkirchen",
+    "schriesheim"
+  ],
+  "maxPagesPerSource": 15
+}
