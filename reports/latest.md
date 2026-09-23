@@ -1,6 +1,6 @@
 # Job Scan Report
 
-Scanned: 2026-09-22T10:49:53.080Z
+Scanned: 2026-09-23T10:39:00.122Z
 Location: Germany
 Keywords: SAP Commerce Cloud, Hybris, SAP CX, SAP Commerce
 Total unique matches: 0
